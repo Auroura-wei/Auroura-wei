@@ -5,7 +5,7 @@
 I am a front-end developer from China
 
 - 🔭 I’m currently working in BeiJing
-- 🌱 I’m currently learning front-end engineering and microfront💫
+- 🌱 I’m currently learning front-end engineering and microfront
 -  I like sleeping 🛌 and watching  
 <p>
   <strong>languages: </strong>
