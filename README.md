@@ -1,13 +1,12 @@
-#Auroura-wei
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to meet you.</h1>
+#Auroura-wei🌷
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to meet you.👀</h1>
 <img src="https://github-stats.liuli.lol/api?username=Auroura-wei&theme=html&show_icons=true&include_all_commits=true&count_private=true" align="right">
 
 I am a front-end developer from China
 
 - 🔭 I’m currently working in BeiJing
-- 🌱 I’m currently learning front-end engineering and microfront
+- 🌱 I’m currently learning front-end engineering and microfront💫
 -  I like sleeping 🛌 and watching  
-- 💬 if you have some questions ask me [here](https://github.com/Auroura-wei/Auroura-wei/issues).
 <p>
   <strong>languages: </strong>
 </p>
