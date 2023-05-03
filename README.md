@@ -6,7 +6,6 @@ I am a front-end developer from China
 - 🔭 I’m currently working in BeiJing
 - 🌱 I’m currently learning front-end engineering and microfront
 - ❤️ I like sleeping 🛌 and watching 📺 
-- 💬 if you have some questions ask me [here](https://github.com/Aurora-wei/Aurora-wei/issues).
 <p>
   <strong>languages: </strong>
 </p>
